@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703538134142",
+    "project_id": "my-health-space",
+    "storage_bucket": "my-health-space.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703538134142:android:a92d80d5091150476d2c2f",
+        "android_client_info": {
+          "package_name": "com.mycompany.myhealthspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJ03mObOVGCqx03Pf2UO4rGfsCtotE_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
